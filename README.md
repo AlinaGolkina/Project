@@ -2,12 +2,12 @@
 Проекты, написанные и защищенные на базе обучения Яндекс.Практикума
 
 ### Навигация
- - [ML для предсказания оттока](https://github.com)
- - [АВ тест для интернет магазина](https://github.com)
- - [Ритейл - Анализ программы лояльности](https://github.com)
- - [Аналитика для Яндекс.Афиши](https://github.com)
- - [Анализ AAB теста для приложения продажи продуктов](https://github.com)
- - [Рынок заведений общественного питания Москвы](https://github.com/)
+ - [ML для предсказания оттока](https://github.com/sstanna/Project-Tanya/blob/main/Project%2011/project%2011.ipynb)
+ - [АВ тест для интернет магазина](https://github.com/sstanna/Project-Tanya/blob/main/Project%207/project%207.ipynb)
+ - [Ритейл - Анализ программы лояльности](https://github.com/sstanna/Project-Tanya/blob/main/project%2014%20(riteal).ipynb)
+ - [Аналитика для Яндекс.Афиши](https://github.com/sstanna/Project-Tanya/blob/main/Project%206/project%206.ipynb)
+ - [Анализ AAB теста для приложения продажи продуктов](https://github.com/sstanna/Project-Tanya/blob/main/Project%209/project%209.ipynb)
+ - [Рынок заведений общественного питания Москвы](https://github.com/sstanna/Project-Tanya/blob/main/Project%208./project%208.ipynb)
 
 ## Описание проектов этого репозитория
 |Название                   |Описание                                                                              |Инструменты и библиотеки    |
